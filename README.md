@@ -1,3 +1,2 @@
 # mytest
-just test \n
-first time
+just test 
